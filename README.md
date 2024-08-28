@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bert</h1>
-<h3 align="center">A passionate student entrepreneur Software Development from Belgium</h3>
+<h3 align="center">A passionate junior full stack developer from Belgium</h3>
 <br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
